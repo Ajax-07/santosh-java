@@ -10,7 +10,7 @@ class santosh{
             System.out.println("third value dijiye");
             int c =sc.nextInt();
             int sum =a+b+c;
-            System.out.println(sum);
+            System.out.println("total:" +  sum);
         }
         
 

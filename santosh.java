@@ -12,8 +12,7 @@ class santosh{
             int sum =a+b+c;
             System.out.println("total:" +  sum);
         }
-        
-wwejhgkjwe
+    
     }
 
 }

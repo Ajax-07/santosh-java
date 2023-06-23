@@ -13,7 +13,7 @@ class santosh{
             System.out.println("total:" +  sum);
         }
         
-
+wwejhgkjwe
     }
 
 }
